@@ -55,7 +55,7 @@ if __name__=="__main__":
     app.run(host="0.0.0.0")
 
 #     Below is the screenshot of required output in local machine browser.
-
+https://github.com/FUZZZZI/MasterDS/blob/main/Snap170.jpg
 
 # Q5. What function is used in Flask for URL Building? Write a Python code to 
 #     demonstrate the working of the url_for() function.
