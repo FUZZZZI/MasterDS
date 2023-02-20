@@ -24,7 +24,7 @@ if __name__=="__main__":
     app.run(host="0.0.0.0")
     
 #     Below is the screenshot of required output in local machine browser.
-
+https://github.com/FUZZZZI/MasterDS/blob/main/Snap208.jpg
 # Q3. What is App routing in Flask? Why do we use app routes?
 # Ans.
 #     App Routing means mapping the URLs to a specific function that will handle 
