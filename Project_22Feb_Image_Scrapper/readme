@@ -18,8 +18,8 @@ Note: Save all the data scraped in the above questions in a CSV file.
 Create a simple UI with all functionalities mentioned above and deploy it in AWS.
 
 SOLUTION
-CSV File: https://github.com/FUZZZZI/MasterDS/blob/main/Project_22Feb_Image_Scrapper/PW-foundation.csv
-Deployed Branch: https://github.com/FUZZZZI/MasterDS/tree/main/Project_22Feb_Image_Scrapper
+CSV File: https://github.com/FUZZZZI/Flask2/blob/main/PW-foundation.csv
+Deployed Branch: https://github.com/FUZZZZI/Flask2
 Deployed APP: https://assignment22feb.azurewebsites.net/
 
 It takes almost 40 seconds to load the deployed app
